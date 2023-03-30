@@ -31,19 +31,15 @@ library seat of Yangtze University
 
 记住它的版本号与位数，打开网址：[mswebdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
-下载对应版本与位数的webdriver，并将下载的文件解压，找到 ‘msedgedriver.exe’ 文件复制到本解压包文件目录下。若遇到提示则选择覆盖。
-
-**注：若你的Edge浏览器的版本与我的一样，则可以跳过本步骤**
-
-
+下载对应版本与位数的webdriver，并将下载的文件解压，找到 ‘msedgedriver.exe’ 文件复制或移动到 'pythoon.exe'所在路径下。
 
 ## 修改所需信息
 
 这里我进行了简化操作。
 
-**修改账密：**双击解压包中的 ‘users_setting.py’ ，根据提示填写账密后关闭窗口。
+**修改账密** 双击解压包中的 ‘users_setting.py’ ，根据提示填写账密后关闭窗口。
 
-**修改预约信息：**双击解压包中的 ‘setting.py’ ，根据提示填写账密后关闭窗口。
+**修改预约信息** 双击解压包中的 ‘setting.py’ ，根据提示填写账密后关闭窗口。
 
 **注：预约开始时间和预约结束时间需要注意格式，例：7:00需写为7；18:30需写为18.5**
 
