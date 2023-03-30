@@ -1,7 +1,7 @@
 # Yangtzeu_lib
 library seat of Yangtze University
 
-[toc]
+---
 
 ## 安装python
 
